@@ -1,5 +1,5 @@
 # Web3Modal React Example
-<img src="https://img.shields.io/static/v1?label=Easy?&message=It Justs Works&color=success"> 
+
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  
