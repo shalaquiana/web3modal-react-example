@@ -7,7 +7,7 @@
 
 forked from: [Web3Modal](https://github.com/Web3Modal/web3modal). 
 
-This repo can be cloned and run with no changes. for the live example see [Web3Modal Example](web3modal.com)
+This repo can be cloned and run with no changes. for the live example see [Web3Modal Example](https://web3modal.com)
 
 ## How to use
 
